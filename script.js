@@ -1,5 +1,5 @@
 
-/*JULIA GUIMARÃES 3C 22.09*/
+/*Mirela 3C 21.09*/
 const avanca = document.querySelectorAll('.btn-proximo');
 
 avanca.forEach(button => {
